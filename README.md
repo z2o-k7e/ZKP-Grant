@@ -6,5 +6,8 @@ To encourage the productivity of zk colearning's students, support community-dri
 这个资助项目将广泛接受来自各方面的资金，致力于支持那些秉持我们使命和愿景的杰出项目。
 
 
+Donate : 
+oeth:0x5B675653Ff50cC11bDF92849232882174069432D
+eth:0x5B675653Ff50cC11bDF92849232882174069432D
 
 Contact: qijin@antalpha.com
