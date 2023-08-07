@@ -1,5 +1,10 @@
 # ZKP-Grant
 To encourage the productivity of zk colearning's students, support community-driven initiatives, and contribute to public goods, we have established a dedicated grant program. This program accepts funding from various sources and provides support to projects that align with our mission and vision.
 
-Contact: qijin@antalpha.com
+为了更好地支持社区驱动的项目和idea，推出全新的Grant，
 
+这个资助项目将广泛接受来自各方面的资金，致力于支持那些秉持我们使命和愿景的杰出项目。
+
+
+
+Contact: qijin@antalpha.com
