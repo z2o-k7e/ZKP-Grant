@@ -8,7 +8,7 @@ To encourage the productivity of zk colearning's students, support community-dri
 
 Donate : 
 
-oeth:0x5B675653Ff50cC11bDF92849232882174069432D
+oeth:0x92aE4D217c36C53A6bf49bc2E2409E25Efa2A051
 
 eth:0x5B675653Ff50cC11bDF92849232882174069432D
 
